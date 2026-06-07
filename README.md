@@ -1,6 +1,6 @@
 # Overview
 
-<video src="https://github.com/bachtly/more-than-cv/raw/master/overview.mp4" controls width="100%"></video>
+[![Overview](https://img.youtube.com/vi/C9qnellt0Z0/maxresdefault.jpg)](https://youtu.be/C9qnellt0Z0)
 
 # Full-stack web app
 
@@ -22,7 +22,7 @@ M$ automation inhouse tool
 
 ![AI Agent Design](agent_design.svg)
 
-<video src="https://github.com/bachtly/more-than-cv/raw/master/agent-demo.mp4" controls width="100%"></video>
+[![AI Agent Demo](https://img.youtube.com/vi/cbEgT8lvovY/maxresdefault.jpg)](https://youtu.be/cbEgT8lvovY)
 
 # Integrations
 
@@ -43,7 +43,7 @@ FedEx, Taylor: status update
 
 Shipment Visibility POC: https://github.com/bachtly/shipment-visibility-workflow
 
-<video src="https://github.com/bachtly/more-than-cv/raw/master/shipment-visibility-demo.mp4" controls width="100%"></video>
+[![Shipment Visibility Demo](https://img.youtube.com/vi/wQbZi0-91vI/maxresdefault.jpg)](https://youtu.be/wQbZi0-91vI)
 
 # Infra - Cloud
 
@@ -55,7 +55,7 @@ IaC code sample: https://github.com/bachtly/shipment-visibility-workflow
 # Analytics - ETL
 ![ETL Design](etl_design.svg)
 
-<video src="https://github.com/bachtly/more-than-cv/raw/master/etl-demo.mp4" controls width="100%"></video>
+[![ETL Demo](https://img.youtube.com/vi/EyT_DpkOtyo/maxresdefault.jpg)](https://youtu.be/EyT_DpkOtyo)
 
 # Notifications
 
